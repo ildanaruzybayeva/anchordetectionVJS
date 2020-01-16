@@ -1,6 +1,7 @@
 const sections = document.querySelectorAll('section');
 const bubble = document.querySelector('.bubble');
 
+///use ui gardients website
 const gradients = [
   'linear-gradient(to right top, #2bc0e4, #eaecc6)',
   'linear-gradient(to right top, #654ea3, #eaafc8)',
